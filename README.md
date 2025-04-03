@@ -7,4 +7,11 @@ The last portion of the course involves using a dataset of real-world data scien
 Specifically I go through 5 questions:
 
 1. What are the top-paying, remote data scientist/analyst jobs?
-2. What skills are required for the top-paying, remote data scientist/analyst jobs
+
+- The number 1 top-paying job in 2023 was a data analyst position for a company called Mantys with an average yearly salary of $650,000!
+- That seems to be an outlier though (I wouldn't expect most data scientist/analyst jobs to have a salary anywhere near this!)
+- The overwhelming majority of the top 50 positions are data scientist as opposed to analyst
+- Most of the salaries range somewhere between $150,000 - $180,000
+- Some of the companies: Algo Capital Group, Grammarly, Ascendion (I'll be honest, I don't recognize a most of the companies listed, but good to know!)
+
+3. What skills are required for the top-paying, remote data scientist/analyst jobs
