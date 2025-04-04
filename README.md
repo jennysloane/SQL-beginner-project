@@ -96,3 +96,11 @@ Tidyverse made top 10! However, I don't recognize most of these skills so guessi
 2. Specialized Programming & Databases Matter – High salaries for Golang ($208K), Neo4j ($171K), and DynamoDB ($169K) highlight the demand for performance-driven coding and advanced data storage solutions.
 3. AI, Automation & BI Are Key – Skills in OpenCV ($172K), Selenium ($180K), and MicroStrategy ($171K) suggest strong demand for machine learning, workflow automation, and business intelligence.
 
+## Question 5: What are the most optimal skills to learn for data scientist and fully remote (aka it's in high demand and high-paying)?
+
+Looked at the results in two ways:
+
+1. Ordered by demand count and then average salary (so in-demand skills takes priority) and found that programming languages were the top skills - Python, SQL, R, Tableau, AWS. The average salaries for these in-demand skills was ~$140,000
+2. Ordered by average salary and then demand count (so salary takes priority) and found 2 skills (GDPR and golang) had salaries > $200,000 but not very high in terms of demand (less than 5 for both), so I filtered by demand count > 10 and got skills like c, GO, 1lik, looker, airflow. The average salaries for these skills was ~$150-160,000.
+
+
