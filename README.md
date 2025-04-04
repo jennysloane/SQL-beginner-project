@@ -67,5 +67,32 @@ plt.pie(skill_counts.head(10), labels=skill_counts.head(10).index, autopct='%1.1
 plt.title("Skill Distribution Among Top 10 Skills")
 plt.show()
 ```
+## Question 3: what are the most in-demand skills for data scientist/data analyst?
 
+Top 10 (all jobs, not just remote):
+1. SQL
+2. Python
+3. R
+4. Excel
+5. Tableau
+6. SAS
+7. Power BI
+8. AWS
+9. Azure
+10. Spark
+
+## Question 4: what are the top skills based on salary? 
+
+Top 5 (data scientist and remote only):
+1. gdpr
+2. golang
+3. atlassian
+4. selenium
+5. opencv
+
+Tidyverse made top 10! However, I don't recognize most of these skills so guessing they are pretty technical/specifi, so I gave the top 25 results to chat GPT to try to gain some additional insights with this prompt: "Here are the top paying skills for data scientists, can you provide some quick insights into some trends of the top paying jobs"
+
+1. Privacy & Compliance Pay the Most – GDPR ($217K) leads the list, showing that data security and regulatory expertise are highly valued.
+2. Specialized Programming & Databases Matter – High salaries for Golang ($208K), Neo4j ($171K), and DynamoDB ($169K) highlight the demand for performance-driven coding and advanced data storage solutions.
+3. AI, Automation & BI Are Key – Skills in OpenCV ($172K), Selenium ($180K), and MicroStrategy ($171K) suggest strong demand for machine learning, workflow automation, and business intelligence.
 
