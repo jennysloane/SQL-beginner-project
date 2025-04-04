@@ -69,7 +69,7 @@ plt.show()
 ```
 ## Question 3: what are the most in-demand skills for data scientist/data analyst?
 
-Top 10:
+Top 10 (all jobs, not just remote):
 1. SQL
 2. Python
 3. R
