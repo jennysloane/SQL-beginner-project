@@ -1,5 +1,5 @@
 /*
-Question: what are teh most in-demand skills for data scientist/data analyst
+Question: what are the most in-demand skills for data scientist/data analyst
 - join job postings to inner join table similar to query 2
 - identify the top 10 in-demand skills
 - focus on all job postings
