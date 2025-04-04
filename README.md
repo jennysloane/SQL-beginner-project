@@ -67,7 +67,7 @@ plt.pie(skill_counts.head(10), labels=skill_counts.head(10).index, autopct='%1.1
 plt.title("Skill Distribution Among Top 10 Skills")
 plt.show()
 ```
-## Question 3: what are the most in-demand skills for data scientist/data analyst (all jobs, not just remote)?
+## Question 3: What are the most in-demand skills for data scientist/data analyst (all jobs, not just remote)?
 
 Top 10:
 1. SQL
@@ -81,7 +81,7 @@ Top 10:
 9. Azure
 10. Spark
 
-## Question 4: what are the top skills based on salary (data scientist and remote only)? 
+## Question 4: What are the top skills based on salary (data scientist and remote only)? 
 
 Top 5:
 1. gdpr
