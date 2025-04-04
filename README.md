@@ -67,5 +67,16 @@ plt.pie(skill_counts.head(10), labels=skill_counts.head(10).index, autopct='%1.1
 plt.title("Skill Distribution Among Top 10 Skills")
 plt.show()
 ```
+## Question 3: what are the most in-demand skills for data scientist/data analyst?
 
-
+Top 10:
+1. SQL
+2. Python
+3. R
+4. Excel
+5. Tableau
+6. SAS
+7. Power BI
+8. AWS
+9. Azure
+10. Spark
