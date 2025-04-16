@@ -13,6 +13,28 @@ Tools I used in this course:
 
 ## Question 1: What are the top-paying, remote data scientist/analyst jobs?
 
+Here's my SQL code for this first question (the code for the other questions can be found in the `project-sql` folder.)
+
+``` sql
+SELECT  
+    job_id,
+    job_title,
+    job_location,
+    job_schedule_type,
+    salary_year_avg,
+    job_posted_date,
+    name AS company_name
+FROM    
+    job_postings_fact
+LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+WHERE  
+    job_location = 'Anywhere'
+    AND (job_title = 'Data Scientist' OR job_title = 'Data Analyst')
+    AND salary_year_avg IS NOT NULL
+ORDER BY salary_year_avg DESC
+LIMIT 50;
+```
+
 - The number 1 top-paying job in 2023 was a data analyst position for a company called Mantys with an average yearly salary of $650,000!
 - That seems to be an outlier though (I wouldn't expect most data scientist/analyst jobs to have a salary anywhere near this!)
 - The overwhelming majority of the top 50 positions are data scientist as opposed to analyst
