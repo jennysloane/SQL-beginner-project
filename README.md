@@ -4,6 +4,13 @@ I was excited when I came across this awesome 4-hour course by Luke Barousse: [S
 
 The last portion of the course involves using a dataset of real-world data science job postings from 2023. The instructor provides a Google Drive link to download the CSV and SQL files to load the dataset into my PostgreSQL database and he walks us through how to use Visual Studio Code (which happens to be my favorite text editor) and GitHub to complete the project and showcase all of the work! 
 
+Tools I used in this course:
+
+- **SQL**
+- **PostgreSQL**
+- **Visual Studio Code**
+- **Git and GitHub**
+
 ## Question 1: What are the top-paying, remote data scientist/analyst jobs?
 
 - The number 1 top-paying job in 2023 was a data analyst position for a company called Mantys with an average yearly salary of $650,000!
